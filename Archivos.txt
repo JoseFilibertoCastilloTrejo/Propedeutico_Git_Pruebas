@@ -1,1 +1,4 @@
 Aqui se describiran todas las estructuras de datos
+Archivos Principales
+Archivos de Trabajo
+Archivos de Historia

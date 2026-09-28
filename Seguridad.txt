@@ -1,0 +1,6 @@
+Aqui se deberar definir y controlar las medidas de Seguridad
+Asignacion de Roles
+Asignacion de Niveles de Seguridad
+Autorizadiones necesarias para Niveles de Seguridad
+Revocacion de Seguridad
+Definicion de procesos automaticas de Revocacion de Seguridad

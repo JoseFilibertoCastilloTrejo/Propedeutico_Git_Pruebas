@@ -1,1 +1,6 @@
 Aqui se desarrollaran todos los procedimientos
+Procedimientos Carga Inicial
+Procedimientos de Respaldo
+Procedimientos de Reinicio
+Procesdimientos de Depuracion
+Procedimentos de Eliminacion de datos
